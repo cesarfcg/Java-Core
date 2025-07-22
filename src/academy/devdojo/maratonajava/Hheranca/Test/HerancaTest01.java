@@ -21,5 +21,6 @@ public class HerancaTest01 {
         funcionario.imprime();
 
 
+
     }
 }

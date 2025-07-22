@@ -16,3 +16,4 @@ public class Seminario {
         this.titulo = titulo;
     }
 }
+

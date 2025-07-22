@@ -15,3 +15,4 @@ public class LeituraTeclado {
         System.out.println(idade+nome+sexo);
     }
 }
+
